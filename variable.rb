@@ -1,5 +1,5 @@
- name = "Greeting"
- 
+ name = "Greeting="Hello World"
+
  number = 8
  
  puts name
