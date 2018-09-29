@@ -1,2 +1,7 @@
- # Define a local variable called 'greeting',
- # give it the value of the string "Hello World"
+ name = "Frances"
+ 
+ number = 8
+ 
+ puts name
+ puts name + "is number" + number.to_s
+ 
